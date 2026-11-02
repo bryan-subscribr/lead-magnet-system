@@ -1,0 +1,1 @@
+python3 ~/.claude/skills/lead-magnet-doc/scripts/images.py row clients.jpg 300 t_RWqB9eAKMx0.jpg t_9SWaq5Eoak0.jpg t_U81bsDC8oP0.jpg t_1wohm6V3LMk.jpg t_7Uz7e9Cbyo0.jpg t_u4OAg30NbhA.jpg --cols 3 --labels "Chamath Palihapitiya|Jordan Welch|Inayah McMillan|Ethan Garland|Fiction Profits Academy|Clover Trading"

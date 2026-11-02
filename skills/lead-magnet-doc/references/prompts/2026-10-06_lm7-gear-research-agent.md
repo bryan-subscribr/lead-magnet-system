@@ -1,0 +1,13 @@
+# LM7 gear research agent prompt (Agent, general-purpose)
+Recovered verbatim from raw session f8a9e033 at 10:55:17 (Agent call). Source: /Users/bryanng/.claude/projects/-Users-bryanng/f8a9e033*.jsonl. Em dashes and curly quotes inside are original.
+
+Research for a YouTube recording-equipment guide (today 2026-10-06). Use WebSearch/WebFetch. Return a compact report, no fluff.
+
+A) For each product below, find: exact current model name, approx current US price, and a working Amazon.com product URL in the clean form https://www.amazon.com/dp/ASIN (verify the ASIN maps to that product via search results or fetching the page). Also a URL to an official/press product image (manufacturer site image URL ideally direct .jpg/.png) we can download.
+Beginner tier: phone tripod mount (e.g. Ulanzi/UBeesize), 10-12" or 18" ring light with stand, a ~$20-70 wireless lav mic for iPhone (DJI Mic Mini or Rode Wireless Micro or Hollyland Lark M2S — pick best value), optional cheap phone teleprompter.
+MVP tier: Sony ZV-E10 II (newest; confirm if anything newer exists), Sigma 16mm f/1.4 DC DN (Sony E), SanDisk Extreme SDXC 128GB, Elgato Cam Link 4K, micro-HDMI to HDMI cable, Sony NP-FW50 dummy battery / AC adapter (note ZV-E10 II uses NP-FZ100 — confirm, and find correct dummy battery for ZV-E10 II), ULANZI F38 travel tripod, Elgato Key Light (and Key Light Air), Shure MV7+ or Shure SM7B + Elgato Wave XLR + RODE PSA1 boom + XLR cable, Elgato Prompter.
+Premium tier: Sony FX3 (and check if FX3A exists/replaces), a lens for it (e.g. Sony FE 24mm f/1.4 GM or Sigma 24-70 f/2.8 DG DN II), Amaran 60d S (or current 60d model) + Amaran Light Dome Mini SE / lantern softbox, C-stand/light stand, Sony ZV-E10 II as second angle, Shure SM7B setup, Elgato Prompter, Elgato Key Light as fill.
+B) Tella (tella.tv): current pricing tier names/prices, exact steps to download and install the Mac and Windows desktop app and do a first screen+camera recording (look at tella.tv help docs and a YouTube tutorial), and its main features (camera bubble, layouts, local + cloud backup, 4K export). Note anything about recording reliability / auto-save.
+C) OBS: confirm the recommended recording settings for a tutorial screen recording in 2026 (output: recording format MKV then remux to MP4, or the newer Hybrid MP4; encoder; quality; 1920x1080 or 2560x1440; 30/60 fps; audio 48 kHz). Note that OBS recordings fail / corrupt when disk fills.
+D) Typical hourly rental price ranges for a YouTube/podcast recording studio with gear included in US major cities (Peerspace, Giggster, local podcast studios) — give 3-5 real data points with source URLs.
+Report every URL you used.
